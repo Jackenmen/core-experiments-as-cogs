@@ -1,0 +1,12 @@
+{
+    "name": "CoreExpAudioLavalinkUpdates",
+    "install_msg": "Thanks for trying out the Lavalink updates experiment for Core Audio cog. You can load the experiment with `[p]load core_exp_audio_ll_updates` and then see the available commands with `[p]help CoreExpAudioLavalinkUpdates`.",
+    "short": "Enable Audio's managed Lavalink server to be updated independently of Red's release schedule.",
+    "description": "Enable Audio's managed Lavalink server to be updated independently of Red's release schedule.",
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+    "author": [
+        "Cog Creators"
+    ],
+    "tags": ["core_exp", "core_experiments", "audio"],
+    "min_bot_version": "3.5.15"
+}
