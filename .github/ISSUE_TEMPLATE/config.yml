@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug reports (and other issues)
+    url: https://discord.gg/red
+    about: "Possible bugs in core experiments (cogs in this repository) may be raised in the #support channel on Red's support server."
+  - name: Feature / Enhancement requests
+    url: https://discord.gg/red
+    about: "Feature / enhancement requests for existing core experiments (cogs in this repository) may be raised in the #feature-ideas channel on Red's support server."
+  - name: Support question
+    url: https://discord.gg/red
+    about: "Any support questions can be asked in the support channel on Red's support server."
